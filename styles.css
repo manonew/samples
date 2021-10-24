@@ -1,0 +1,59 @@
+.navbar {
+    background-color: #09009B;
+}
+
+.navbar-brand {
+    font-size: 900;
+}
+
+.navbar a {
+    color: white;
+    font-weight: bold;
+}
+
+.nav-item {
+    padding-left: 100px;
+}
+
+.carousel .carousel-item {
+    height: 400px;
+}
+
+.carousel-item img {
+    position: absolute;
+    object-fit: cover;
+    top: 0;
+    left: 0;
+    min-height: 400px;
+}
+
+ul {
+    line-height: 2.6;
+}
+
+.col {
+    height: 300px;
+}
+
+.row {
+    padding: 50px;
+    margin: auto;
+}
+
+.cc {
+    margin: auto;
+    padding: 20px;
+    width: 100%;
+    text-align: left;
+    background-color: #D98C00;
+    color: white;
+}
+
+.card {
+    padding: 10px;
+    background-color: #D98C00;
+    border: none;
+    text-align: center;
+    line-height: 3.6;
+    color: white;
+}
